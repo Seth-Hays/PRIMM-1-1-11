@@ -4,22 +4,22 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > The sum of two numbers
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > Yes, because it adds the numbers you input
 
 ## Run
 Run the program. 
 
 1. What does the program output. Refer to what numbers you entered and what you got back.
-    > your answer
+    > The number you input put together
 
 
 ## Investigate
 1. Add a single-line comment above each major chunk of code to explain what is happening.
 2. Read about the concept of [string concatenation](https://www.w3schools.com/python/gloss_python_string_concatenation.asp). Explain in your own words below what it is and how it relates to this program.
-    > your answer
+    > Puts strings together
 
 3. Read about the [`int()`](https://www.w3schools.com/python/ref_func_int.asp) and [`float()`](https://www.w3schools.com/python/ref_func_float.asp) functions in Python. What do they do? How can they help this program?
     > your answer
@@ -44,10 +44,10 @@ Run the program.
 | Operator | Meaning |
 |  :---:    |   :---:   |  
 |   `+`    | Addition |
-|   `-`    | your answer |
-|   `*`    | your answer |
-|   `/`    | your answer |
+|   `-`    | Subtraction |
+|   `*`    | Multiplication |
+|   `/`    | Division |
 |   `//`    | your answer |
 |   `**`    | your answer |
-|   `%`    | your answer |
+|   `%`    | Mod |
 
