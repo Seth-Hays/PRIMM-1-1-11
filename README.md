@@ -45,7 +45,7 @@ Run the program.
 |  :---:   |   :---:   |  
 |   `+`    | Addition |
 |   `-`    | Subtraction |
-|   `*`    | Multiplication |
+|   `*`    | Multiplication | 
 |   `/`    | Division |
 |   `//`   | Floor Division |
 |   `**`   | Exponents |
