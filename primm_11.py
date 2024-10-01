@@ -6,9 +6,9 @@ Seth - September 2024
 
 def main():
     # Delcaring variables and asking for input
-    num1: int = int(input("Enter a number: "))
-    num2: int = int(input("Enter another number: "))
-    total: int = num1 + num2
+    num1: float = int(input("Enter a number: "))
+    num2: float = int(input("Enter another number: "))
+    total: float = num1 + num2
 
     # Printing what you input
     print(f"{num1} + {num2} = {total}")
