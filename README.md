@@ -42,12 +42,12 @@ Run the program.
 2. Can you figure out what they do without looking them up? You might need to enter multiple numbers to figure it out. Fill in the table below.
 
 | Operator | Meaning |
-|  :---:    |   :---:   |  
+|  :---:   |   :---:   |  
 |   `+`    | Addition |
 |   `-`    | Subtraction |
 |   `*`    | Multiplication |
 |   `/`    | Division |
-|   `//`    | your answer |
-|   `**`    | your answer |
+|   `//`   | Floor Division |
+|   `**`   | Exponents |
 |   `%`    | Mod |
 

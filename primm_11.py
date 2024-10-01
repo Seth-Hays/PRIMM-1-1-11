@@ -11,7 +11,7 @@ def main():
     total: int = num1+num2
 
     """ printing what you input"""
-    print(f"{num1} + {num2} = {total}")
+    print(f"{num1} ** {num2} = {total}")
 
 if __name__ == "__main__":
   main()
